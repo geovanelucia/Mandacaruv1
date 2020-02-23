@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e5f4556bbd0ea3d42a127ee95e59ad8e
+  - enabled: 1
+    path: Assets/Scenes/Cena1.unity
+    guid: 57bbc264c98253742ad0c1de24777656
+  - enabled: 1
+    path: Assets/Scenes/Cena2.unity
+    guid: f8d5a6a8baf93e84580be45d33ac9bf0
+  - enabled: 1
+    path: Assets/Scenes/Cena3.unity
+    guid: 936d7d70973938a4891f6967ae0c44f8
+  - enabled: 1
+    path: Assets/Scenes/Cena4.unity
+    guid: d234d9046f9367041a1c03e1064575a5
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: 8325ae6f88a672b478eaae5aa75d494d
+  - enabled: 1
+    path: Assets/Scenes/Fase.unity
+    guid: 548216c27ba2a9a46a327e77b1b5f556
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FimDeJogo.unity
+    guid: d16477e7a61c37043bf3bdb8778b0999
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: 39ccde38b83a86b4caa8121c6ef2ecf8
+  m_configObjects: {}
